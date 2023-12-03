@@ -1,0 +1,28 @@
+<html>
+MENU UTAMA
+<ul>
+  <li><a href="isi 1.html"target="main">Muzium Diraja Kedah</a><li>
+  <li><a href="isi 2.html"target="main">Rumah Kelahiran Tun Dr. Mahathir</a></li>
+  <li><a href="comment.html"target="main">Komen</a></li>
+</ul>
+
+PAUTAN KE WEB LAIN
+<ul>
+  <li><a href="http://www.bharian.com.my"target="_blank">
+             Berita Harian</a></li>
+  <li><a href="http://www.hmetro.com.my"target="_blank">
+             Harian Metro</a></li>
+  <li><a href="http://www.utusan.com.my"target="_blank>
+             Utusan Malaysia</a></li>
+</ul>
+
+PAUTAN EMAIL
+<FORM NAME="nav"><DIV>
+<SELECT NAME="SelectURL" onChange="document.location.href=
+document.nav.SelectURL.options
+[document.nav.SelectURL.selectedIndex].value">
+<OPYION VALUE="---"SELECTED>Semak email anda !!!
+<OPTION VALUE="https://www.gmail.com"target="main">Google mail
+<OPTION VALUE="https://mail.yahoo.com/"target="main">yahoo mail</SELECT><DIV>
+</FORM>
+</html>

@@ -1,0 +1,11 @@
+<html>
+<title>
+TEMPAT MENARIK DI KEDAH
+</title>
+<Frameset rows="150,*">
+<Frame noresize src="atas.html" frameborder="0">
+<Frameset cols="20%,*">
+<Frame src="kiri.html" frameborder="0">
+<Frame src="utama.html" frameborder="0">
+</Frameset>
+</html>

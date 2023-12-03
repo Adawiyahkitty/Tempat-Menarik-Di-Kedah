@@ -1,0 +1,19 @@
+<html>
+<style>
+body {
+  background-image: url('checkered wallpaper 2.jpg');
+}
+</style>
+<head>
+<h1><i>Alor Setar</i><h1>
+</head>
+<p<h2>Muzium Diraja Kedah</h2></p>
+<img border="0" src="kedah-royal-museum.jpg" align="center" width="500" height="420">
+<p><h3>Dengan mengunjungi Muzium Diraja Kedah, anda akan dapat melihat dan mempelajari bagaimana seorang Sultan tinggal di sebalik pintu tertutup. Di tempat ini, ia menempatkan 2,000 artifak, dokumentasi dan juga harta benda Sultan Abdul Halim (bekas Sultan Kedah) dan isterinya. Sekiranya anda sentiasa ingin mengetahui bagaimana Sultan atau Raja hidup di Malaysia, ini adalah tempat yang sesuai untuk bermula.
+</h3></p>
+<p><h3>Waktu Operasi:</h3></p>
+<p><h4>Setiap hari, 10:00 pg – 6:00 ptg</h4></p>
+<p><h3>Harga Tiket</h3></p>
+<p><h4>Percuma</h4></p>
+</body>
+</html>

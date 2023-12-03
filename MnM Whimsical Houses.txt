@@ -1,0 +1,17 @@
+<html>
+<style>
+body {
+  background-image: url('checkered wallpaper.jpg');
+}
+</style>
+
+<head>
+<img border="0" src="banner mnm.png" align="center" width="520" height="120">
+</head>
+
+<p><h3>Tempat ini berasa seperti ‘Alice in Wonderland’ dan filem ‘Hobbits’ digabungkan menjadi satu. Rumah-rumah dan struktur di sini dibuat dengan begitu aneh dan pelik bahawa banyak orang akan datang ke sini hanya untuk mengalaminya sendiri. Di sini, anda akan dapat melihat lubang ‘Hobbit’, rumah terbalik dan juga ‘Twin Leaning House.</h3></p>
+<p><h3>Sekiranya anda sedang mencari tempat untuk mengambil gambar yang menarik, ini adalah salah satu tempat menarik di Kedah yang paling sesuai. Video dan gambar di bawah merupakan beberapa struktur yang unik yang anda akan jumpai di tempat ini.</p></h3>
+<img border="0" src="MnM Whimsical Houses.png" align="center" width="300" height="300">
+<img border="0" src="rumah terbalik kedah.png" align="right" width"300" height="300">
+
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/FdsGSBwjpJs?si=IzsZh66iT2-K-Sw1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

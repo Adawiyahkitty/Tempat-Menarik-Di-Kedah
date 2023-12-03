@@ -1,0 +1,35 @@
+<html>
+<style>
+body {
+  background-image: url('download.jpg');
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("Bendera Kedah 2 (copy).png");
+
+  /* Set a specific height */
+  min-height: 600px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+
+<!-- Container element -->
+<div class="parallax"></div>
+</style>
+
+<head>
+<img border="0" src="banner.png" align="center" width="320" height="120"
+</head>
+
+<p><h3>Sebagai ‘mangkuk padi’ Malaysia di mana separuh daripada pengeluaran beras negara berasal dari negeri ini, terdapat banyak tempat untuk dilawati di Kedah semasa cuti anda. Bukan itu sahaja, ia ialah rumah kepada salah satu pulau yang paling popular di Malaysia, Pulau Langkawi. Dengan begitu banyak keajaiban semula jadi yang ditawarkan, Kedah patut menjadi sebahagian daripada pelan perjalanan anda apabila anda merancang perjalanan ke utara Semenanjung Malaysia.</h3></p>
+<p><h3>Sedang mencari lebih banyak tempat untuk melancong di Kedah? Kunjungi <a href="isi 1.html">Muzium Diraja Kedah</a> dan <a href="isi 2.html">Rumah Kelahiran Tun Dr. Mahathir</a> ataupun klik gambar di bawah ini untuk maklumat yang lebih lanjut.</p></h3>
+<p><a href="MnM Whimsical Houses.html"><img border="0" src="MnM Whimsical Houses Canva.png" align="left" width="400" height="400"></a>
+<a href="Langkawi Sky Bridge.html"><img border="0" src="Langkawi Sky Bridge Canva.png" align="right" width="400" height="400"></a></p>
+
+</html>

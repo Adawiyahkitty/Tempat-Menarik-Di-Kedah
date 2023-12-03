@@ -1,0 +1,14 @@
+<html>
+<style>
+body {
+  background-image: url('checkered wallpaper 2.jpg');
+}
+</style>
+<head>
+<h1><i>Alor Setar</i><h1>
+</head>
+<h1><i>Rumah Kelahiran Tun Dr. Mahathir</i></h1>
+<img border="0" src="rumah kelahiran Tun Dr. Mahathir.jpg" width"300" height"220">
+<p><h3>Tun Dr. Mahathir bin Mohamad, lebih dikenali sebagai Tun M, ialah seorang ahli politik dan doktor perubatan Malaysia yang berkhidmat sebagai Perdana Menteri selama dua penggal. Rumah Kelahiran Tun Dr. Mahathir adalah muzium yang didedikasikan untuk beberapa sumbangan dan jasa beliau, termasuk membimbing transformasi negara menjadi sebuah negara perindustrian. Ia terletak di Jalan Kebun, tempat dia dibesarkan.</h3></p>
+<p><h3>Tarikan Alor Setar ini terbahagi kepada dua bahagian: rumah kelahiran Tun Dr. Mahathir dan bangunan galeri, yang memaparkan harta benda Tun M. Muzium ini menggambarkan kehidupannya dari zaman kanak-kanak sehingga dia menjadi ahli politik hingga bersara kerana masalah kesihatan. Muzium ini mengekalkan daya tarikan dan suasana tahun 1960-an dan 1970-an, memastikan semua peminat dan pengikutnya akan menikmati lawatan ke muzium.</h3></p>
+</html>

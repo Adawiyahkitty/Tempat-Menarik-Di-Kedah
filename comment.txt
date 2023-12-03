@@ -1,0 +1,16 @@
+<html>
+<style>
+body {
+  background-image: url('colourful scaly.webp');
+}
+</style>
+<h2>Hantar komen atau pendapat anda ke pemilik laman sesawang ini</h2>
+<form action="mailto:m-11176914@moe-dl.edu.my" method="post" enctype="text/plain">
+Nama:<br><input type="text" name="name"><br>
+E-mail:<br><input type="text" name="mail"><br>
+Komen: <br>
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Hantar">
+<input type="reset" value="Semula">
+</form>
+</html>
